@@ -1,0 +1,23 @@
+{
+  "name": "equinox34",
+  "version": "1.0.0",
+  "description": "an example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoHR34/Equinox34.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spu"
+  ],
+  "author": "Missa jar jar binks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoHR34/Equinox34/issues"
+  },
+  "homepage": "https://github.com/RobertoHR34/Equinox34#readme"
+}
