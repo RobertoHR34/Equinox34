@@ -2,7 +2,7 @@
   "name": "equinox34",
   "version": "1.0.0",
   "description": "an example",
-  "engine": {
+  "engines": {
           "node":"12.x"
   },
   "main": "app.js",
