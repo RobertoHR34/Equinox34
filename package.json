@@ -2,7 +2,14 @@
   "name": "equinox34",
   "version": "1.0.0",
   "description": "an example",
+  "engine": {
+          "node":"12.x"
+  },
   "main": "app.js",
+  "scripts":{
+      "start": "node app.js",
+      "test": "echo \"Error: notest specifed\" && exit 1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +19,7 @@
   },
   "keywords": [
     "nodejs",
-    "spu"
+    "heroku"
   ],
   "author": "Missa jar jar binks",
   "license": "ISC",
